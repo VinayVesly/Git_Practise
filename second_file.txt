@@ -1,2 +1,3 @@
 Hello team this is a feature branch file
 git fetch command explaination
+git pull commad explaination
